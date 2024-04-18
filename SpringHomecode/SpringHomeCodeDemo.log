@@ -1,0 +1,18 @@
+2024-04-18 12:42:47.302  INFO 71904 --- [main] c.h.a.SpringHomeCodeApplication          : Starting SpringHomeCodeApplication using Java 21.0.2 on Jolins-MacBook-Pro-2.local with PID 71904 (/Users/jolinz/Documents/Training/J2EE/SpringBootRestDemo/target/classes started by jolinz in /Users/jolinz/Documents/Training/J2EE/SpringBootRestDemo)
+2024-04-18 12:42:47.303  INFO 71904 --- [main] c.h.a.SpringHomeCodeApplication          : No active profile set, falling back to default profiles: default
+2024-04-18 12:42:47.716  INFO 71904 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2024-04-18 12:42:47.720  INFO 71904 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-04-18 12:42:47.721  INFO 71904 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.50]
+2024-04-18 12:42:47.748  INFO 71904 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-04-18 12:42:47.748  INFO 71904 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 420 ms
+2024-04-18 12:42:47.918  INFO 71904 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2024-04-18 12:42:47.922  INFO 71904 --- [main] c.h.a.SpringHomeCodeApplication          : Started SpringHomeCodeApplication in 0.933 seconds (JVM running for 1.087)
+2024-04-18 12:53:15.586  INFO 71997 --- [main] c.h.a.SpringHomeCodeApplication          : Starting SpringHomeCodeApplication using Java 21.0.2 on Jolins-MacBook-Pro-2.local with PID 71997 (/Users/jolinz/Documents/Training/J2EE/SpringHomecode/target/classes started by jolinz in /Users/jolinz/Documents/Training/J2EE/SpringHomecode)
+2024-04-18 12:53:15.588  INFO 71997 --- [main] c.h.a.SpringHomeCodeApplication          : No active profile set, falling back to default profiles: default
+2024-04-18 12:53:15.955  INFO 71997 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2024-04-18 12:53:15.959  INFO 71997 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-04-18 12:53:15.959  INFO 71997 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.50]
+2024-04-18 12:53:15.982  INFO 71997 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-04-18 12:53:15.982  INFO 71997 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 373 ms
+2024-04-18 12:53:16.133  INFO 71997 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2024-04-18 12:53:16.138  INFO 71997 --- [main] c.h.a.SpringHomeCodeApplication          : Started SpringHomeCodeApplication in 0.714 seconds (JVM running for 0.868)
